@@ -14,3 +14,5 @@ Refinar o modelo acrescentando os seguintes pontos:
 . **Pagamento – Pode ter cadastrado mais de uma forma de pagamento:** Criei uma entidade nova chamada Pagamento, que contém atributos relacionados ao dados de cartões de crédito que podem ser persistidos.
 
 . **Entrega – Possui status e código de rastreio:** Criei uma noa entidade chamada entrega que contém os atributos de status e rastreio, além de outros relacionados às datas de saída e entrega, e também de transportadora.
+
+[Link do diagrama refinado](https://github.com/casjunior93/DIO---Refinando-um-Projeto-Conceitual-de-Banco-de-Dados-E-COMMERCE/raw/main/E-commerce/diagrama-e-commerce-aula-refinado.png)
